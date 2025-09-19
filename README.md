@@ -12,6 +12,25 @@
 - 📫 How to reach me **borkarvaishnavi45@gmail.com**
 
 - ⚡ Fun fact **I believe great code is like art – simple, elegant, and impactful**
+- ## 📂 Open Source Contributions
+
+### React.js
+- **Fix en-dash in filenames** in `babel-plugin-react-compiler`  
+  PR [#34489](https://github.com/facebook/react/pull/34489) · Sep 15, 2025
+
+### Gutenberg (Upcoming)
+- **Allow deleting nav link items in contentOnly** (task)  
+  Issue [#71760](https://github.com/WordPress/gutenberg/issues/71760) · Sep 19, 2025
+
+### WordPress/PHP Projects
+- **My PHP CRUD App**  
+  Repo [php-crud-app](https://github.com/VaishnaviShirishBorkar/php-crud-app) · In progress  
+
+- **Custom WordPress Plugin**  
+  Repo [wp-simple-plugin](https://github.com/VaishnaviShirishBorkar/wp-simple-plugin) · In progress  
+
+> 💡 _Screenshots and live demo links coming soon!_
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
